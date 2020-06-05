@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171096158560",
+    "firebase_url": "https://job-hunter-c7248.firebaseio.com",
+    "project_id": "job-hunter-c7248",
+    "storage_bucket": "job-hunter-c7248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171096158560:android:6205d33b762b2036be2e05",
+        "android_client_info": {
+          "package_name": "com.example.jobhunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171096158560-4tln0gn0suhne3e4armrcr1m4i840hkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jobhunter",
+            "certificate_hash": "4af2f3c00877d751fcc2cf9fecb84855ee28fcb2"
+          }
+        },
+        {
+          "client_id": "171096158560-36b2sepqg1vm8bbc8te236b3l0r2e24g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVud6pGsCioussgragmfeNGw_uec03-6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171096158560-36b2sepqg1vm8bbc8te236b3l0r2e24g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
